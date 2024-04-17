@@ -1,0 +1,134 @@
+[
+  {
+     "id": 1,
+     "picUrl": "http://localhost:5000/profile/iphone-14.jpg",
+     "name": "iPhone 14",
+     "price": 999.99,
+     "discount": 10,
+     "color": "Black",
+     "stock": "In Stock",
+     "description": "The iPhone 14 is the latest flagship smartphone from Apple, known for its sleek design and cutting-edge features."
+  },
+  {
+     "id": 2,
+     "picUrl": "http://localhost:5000/profile/samsung-glaxy-22.jpg",
+     "name": "Samsung Galaxy S22",
+     "price": 899.99,
+     "discount": 20,
+     "color": "Phantom Gray",
+     "stock": "In Stock",
+     "description": "The Samsung Galaxy S22 is a powerful Android smartphone with a stunning display and advanced camera technology."
+  },
+  {
+     "id": 3,
+     "picUrl": "http://localhost:5000/profile/infinix-note-7.jpg",
+     "name": "Infinix Note 12",
+     "price": 45999,
+     "discount": 6,
+     "color": "Just Black",
+     "stock": "In Stock",
+     "description": "The Infinix Note 12 is a budget-friendly smartphone with a large screen and long-lasting battery."
+  },
+  {
+     "id": 7,
+     "picUrl": "http://localhost:5000/profile/oppo-find-n2.jpg",
+     "name": "Oppo Find n2",
+     "price": 59999,
+     "discount": 0,
+     "color": "Coral",
+     "stock": "Out of Stock",
+     "description": "The Oppo Find n2 is a stylish smartphone known for its exceptional camera capabilities, but it's currently out of stock."
+  },
+  {
+     "id": 8,
+     "picUrl": "http://localhost:5000/profile/samsung-glaxy-23ultra.jpg",
+     "name": "Samsung Galaxy Note 23",
+     "price": 129000,
+     "discount": 0,
+     "color": "Mystic Bronze",
+     "stock": "In Stock",
+     "description": "The Samsung Galaxy Note 23 is a premium phablet with a beautiful Mystic Bronze finish and a powerful performance."
+  },
+  {
+     "id": 9,
+     "picUrl": "http://localhost:5000/profile/tecno-camon-17.jpg",
+     "name": "Tecno Camon 17",
+     "price": 699.99,
+     "discount": 0,
+     "color": "Purple",
+     "stock": "In Stock",
+     "description": "The Tecno Camon 17 is a budget-friendly smartphone with a focus on camera quality and a stylish purple design."
+  },
+  {
+     "id": 10,
+     "picUrl": "http://localhost:5000/profile/infinix-note-10.jpg",
+     "name": "Infinix Note 10",
+     "price": 41599,
+     "discount": 7,
+     "color": "Just Black",
+     "stock": "In Stock",
+     "description": "The Infinix Note 10 is a mid-range smartphone known for its large display and long-lasting battery life."
+  },
+  {
+     "id": 11,
+     "picUrl": "http://localhost:5000/profile/oppo-reno6.jpg",
+     "name": "Oppo Reno 6",
+     "price": 49999,
+     "discount": 10,
+     "color": "Blue Marble",
+     "stock": "Out of Stock",
+     "description": "The Oppo Reno 6 is a stylish smartphone with a unique Blue Marble finish, but it's currently out of stock."
+  },
+  {
+     "id": 12,
+     "picUrl": "http://localhost:5000/profile/tecno-camon-16.jpg",
+     "name": "Tecno Camon 16",
+     "price": 24999,
+     "discount": 0,
+     "color": "Frost White",
+     "stock": "In Stock",
+     "description": "The Tecno Camon 16 is a budget-friendly smartphone with a clean Frost White design and decent camera features."
+  },
+  {
+     "id": 13,
+     "picUrl": "http://localhost:5000/profile/samsung-glaxy-a14.jpg",
+     "name": "Samsung Galaxy A14",
+     "price": 39999,
+     "discount": 5,
+     "color": "Awesome Blue",
+     "stock": "In Stock",
+     "description": "The Samsung Galaxy A14 is a mid-range smartphone with a striking Awesome Blue color and good value for money."
+  },
+  {
+     "id": 14,
+     "picUrl": "http://localhost:5000/profile/infinix-note-12.jpg",
+     "name": "Infinix Note 12",
+     "price": 51599,
+     "discount": 0,
+     "color": "Product(RED)",
+     "stock": "Out of Stock",
+     "description": "The Infinix Note 12 features a unique Product(RED) color but is currently out of stock."
+  },
+  {
+     "id": 15,
+     "picUrl": "http://localhost:5000/profile/sparkx-neo-ultra.jpg",
+     "name": "Sparx Neo Ultra",
+     "price": 34999,
+     "discount": 2,
+     "color": "Clearly White",
+     "stock": "In Stock",
+     "description": "The Sparx Neo Ultra is a budget-friendly smartphone with a sleek Clearly White design."
+  },
+  {
+     "id": 16,
+     "picUrl": "http://localhost:5000/profile/vivo-v27.jpg",
+     "name": "Vivo V27",
+     "price": 54000,
+     "discount": 20,
+     "color": "Shadow Gray",
+     "stock": "In Stock",
+     "description": "The Vivo V27 is a stylish smartphone with a sophisticated Shadow Gray color and strong performance."
+  }
+]
+
+  
